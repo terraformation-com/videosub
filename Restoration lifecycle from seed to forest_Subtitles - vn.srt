@@ -1,0 +1,198 @@
+1
+00: 03: 07,528 -> 00: 05: 07,529
+Những tác động của biến đổi khí hậu đang gia tăng
+
+2
+00: 05: 07,729 -> 00: 06: 08,729
+với tốc độ cấp lũy thừa
+
+3
+00: 09: 08.929 -> 00: 11: 09.929
+Cây cối giải quyết một phần của vấn đề
+
+4
+00: 11: 11,128 -> 00: 14: 11,129
+trong 50 năm hoặc hơn 100 năm tới,
+
+5
+00: 15: 11,329 -> 00: 17: 12,329
+có thể quá chậm chạp
+
+6
+00: 19: 12,529 -> 00: 22: 13,529
+Để khử cacbon hoàn toàn cho lưới điện
+
+7
+00: 22: 13,729 -> 00: 26: 59,729
+và sau đó loại bỏ tất cả lượng CO2 dư thừa thoát ra,
+
+số 8
+00: 26: 59,929 -> 00: 29: 59,929
+chúng ta có thể phải đạt được điều đó, trong khoảng 30 năm
+
+9
+00: 30: 00,129 -> 00: 32: 01,129
+Và sự kiện đó là một khung thời gian dài nguy hiểm
+
+10
+00: 32: 01,329 -> 00: 34: 02,329
+Để có được 10 hoặc 20 năm rừng trở thành rừng già
+
+11
+00: 35: 02,529 -> 00: 39: 03,529
+nó có nghĩa là chúng ta phải trồng tất cả cây  trong vòng 10 năm
+
+12
+00: 39: 04,728 -> 00: 44: 04,729
+Nếu mục tiêu là trồng 1 nghìn tỷ cây xanh
+
+13
+00: 44: 04,929 -> 00: 47: 55,929
+chúng ta cần 2 nghìn tỷ hạt giống
+
+14
+00: 47: 56,129 -> 00: 50: 57,129
+Vì vậy, chúng tôi đi ra ngoài cánh đồng này.
+
+15
+00: 51: 57,329 -> 00: 52: 58,329
+Khi chúng tôi có hạt giống, chúng tôi mang chúng trở lại đây để
+
+16
+00: 53: 00,000 -> 00: 58: 00,529
+vườn ươm hoặc ngân hàng hạt giống sẽ xử lý hạt giống
+
+17
+00: 58: 00,729 -> 00: 59: 01,729
+làm sạch chúng, chuẩn bị sẵn sàng để làm khô
+
+18
+01: 00: 02.928 -> 01: 03: 02.929
+Điều này sẽ cho phép mọi người lưu trữ hạt giống
+
+19
+01: 03: 03.129 -> 01: 03: 04.129
+cho các điểm khôi phục rừng trong tương lai
+
+20
+01: 05: 05.328 -> 01: 09: 05.329
+Vì vậy, chúng tôi gửi một số hạt giống và chúng tôi gieo một số hạt giống
+
+21
+01: 09: 05.529 -> 01: 11: 06.529
+Vì vậy, chúng tôi mang chúng đến đây vào vườn ươm
+
+22
+01: 11: 06.729 -> 01: 14: 07.729
+Nhà kính chính xác là những gì bạn thấy ở đây
+
+23
+01: 14: 07.929 -> 01: 16: 08.929
+Đó là cùng một nhà kính sẽ được vận chuyển đi 
+
+24
+01: 16: 09.129 -> 01: 17: 10.129
+tới mọi nơi trên toàn thế giới
+
+25
+01: 17: 10.329 -> 01: 20: 11.329
+Vì vậy, nó chỉ cung cấp cho mọi người công cụ để trồng cây
+
+26
+01: 20: 11,529 -> 01: 22: 12,529
+Chúng tôi biết nó có thể được thực hiện ở đây
+
+27
+01: 22: 12.729 -> 01: 25: 13.729
+Chúng tôi đang làm thành công và mọi người cũng có thể làm được.
+
+28
+01: 29: 13,929 -> 01: 31: 14,929
+Chúng tôi nhặt cây trong vườn ươm
+
+29
+01: 31: 15.129 -> 01: 34: 16.129
+đã chọn trước cho ngày gieo trồng đó.
+
+30
+01: 34: 16.329 -> 01: 36: 17.329
+Mỗi cây có một dây tưới nhỏ
+
+31
+01: 36: 17.529 -> 01: 39: 18.529
+và được tưới chút nước mỗi giây 
+32
+01: 39: 18.729 -> 01: 41: 19.729
+để giúp nó lúc ban đầu
+
+33
+01: 41: 19.929 -> 01: 44: 20.929
+cung cấp cho chúng một ít đất, phân bón
+
+34
+01: 44: 21.129 -> 01: 48: 22.129
+Chúng tôi đang sử dụng tảo cát để ngăn sâu bọ
+
+35
+01: 48: 22.329 -> 01: 49: 23.329
+khỏi leo lên chúng
+
+36
+01: 49: 23.529 -> 01: 51: 24.529
+Sau khi trồng, chúng tôi đi qua
+
+37
+01: 51: 24.729 -> 01: 55: 25.729
+và lấy vị trí địa lý của từng điểm
+
+38
+01: 55: 25.929 -> 01: 59: 26.929
+Và sau đó thông tin được lưu trữ trong cơ sở dữ liệu địa lý
+
+39
+01: 59: 27.129 -> 02: 01: 28.129
+ của  hệ thống thông tin địa lý.
+
+40
+02: 01: 28.329 -> 02: 04: 29.329
+Cuối cùng khi tất cả chúng đã được thiết lập
+
+41
+02: 04: 29.529 -> 02: 06: 30.529
+cây cối được trồng  sẽ hỗ trợ lẫn nhau.
+
+42
+02: 06: 30.729 -> 02: 07: 31.729
+Chúng sẽ làm mát khu vực này
+
+43
+02: 07: 31.929 -> 02: 10: 32.929
+điều này sẽ giúp mưa và độ ẩm ở đây
+
+44
+02: 10: 33.129 -> 02: 14: 34.129
+Và vì vậy chúng ta có thể biến sa mạc này thành rừng một lần nữa.
+
+45
+02: 15: 34.329 -> 02: 18: 35.329
+Có rất nhiều liên quan cần phải xảy ra
+
+46
+02: 18: 35.529 -> 02: 19: 36.529
+để có thể đưa những cây này vào đất.
+
+47
+02: 19: 36.729 -> 02: 24: 37.729
+Và rất nhiều công việc cần phải làm , nhưng tất cả đều đáng giá.
+
+48
+02: 24: 37.929 -> 02: 26: 38.929
+thật là tốt khi làm công việc này
+
+49
+02: 26: 39.129 -> 02: 30: 40.129
+đưa việc trồng cây này vào đúng vị trí của nó
+
+50
+02: 30: 40.329 -> 02: 36: 41.329
+và tiến về phía trước
